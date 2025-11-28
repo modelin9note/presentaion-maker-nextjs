@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-pptx
+pandas
+
+
+
+
+
+# streamlit google-generativeai python-pptx pandas
+
+
